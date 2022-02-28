@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+
 <!--
 **AykutBuyukkaya/AykutBuyukkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +19,9 @@ Here are some ideas to get you started:
 -->
 
 
+x-special/nautilus-clipboard
+copy
+file:///home/aykut/Desktop/Untitled.png
 
 
 
