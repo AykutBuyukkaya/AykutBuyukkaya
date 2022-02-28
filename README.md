@@ -32,7 +32,7 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 
 
 [![website](./img/twitter-dark.svg)](https://mobile.twitter.com/aykutbkaya1911) 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aykut-b%C3%BCy%C3%BCkkaya-16b766190/) 
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aykutbuyukkaya/) 
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/aykutb.kaya/) 
 
 
