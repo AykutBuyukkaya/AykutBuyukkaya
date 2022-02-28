@@ -2,28 +2,30 @@
 # Hi there, I'm Aykut👋 
 
 
+<br>
 
 
 
 
+![Bloomer Wojak Gif](./gif/wojak-wojak-sunset.gif)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<br>
 
-<!--
-**AykutBuyukkaya/AykutBuyukkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my profile. I'm currently a third-grade university student at Marmara University located in Istanbul. Even though I'm studying Electronics Engineering program, my real passion is all about software. I'm currently a part-time junior backend engineer at a company located in Teknopark Istanbul. Also, I'm 20 years old.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+- 🔭 I’m currently working as a part-time backend engineer using Spring boot and Hibernate frameworks.
+- 🌱 I’m currently mastering my knowledge of Spring boot and taking part in big projects.
+- 👯 I’m looking to collaborate with other students willing to create open-source projects.
+- 🤔 I’m looking for help with Spring boot and Hibernate frameworks. There is lots of stuff to do.
+- 💬 Ask me about Spring boot and Hibernate. Also, I am kinda experienced in Vaadin and JavaFX frameworks.
+- 📫 How to reach me: ```aykutbkaya@gmail.com```   &nbsp; ```aykutbuyukkaya@protonmail.com```
+- 🏋️ I like to go hiking and work out/exercise in my spare time.             
+- 📖 I'm addicted to history. Especially antique Roman Kingdom-Republic-Empire History.                      
+
+***
 
 
 ### Connect with me:
