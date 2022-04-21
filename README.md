@@ -4,11 +4,6 @@
 
 <br>
 
-
-
-
-![Bloomer Wojak Gif](./gif/wojak-wojak-sunset.gif)
-
 <br>
 
 Thanks for checking out my profile. I'm currently a third-grade university student at Marmara University located in Istanbul. Even though I'm studying Electronics Engineering program, my real passion is all about software. I'm currently a part-time junior backend engineer at a company located in Teknopark Istanbul. Also, I'm 20 years old.
