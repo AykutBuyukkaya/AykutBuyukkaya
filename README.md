@@ -23,6 +23,7 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 ***
 
 <br>
+
 # My Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
@@ -37,6 +38,7 @@ Communication Engineering Course Documents &lpar;Instructed by Assoc. Prof. Dr. 
 
 ### Connect with me:
 
+<br>
 
 [![website](./img/twitter-dark.svg)](https://mobile.twitter.com/aykutbkaya1911) 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aykutbuyukkaya/) 
