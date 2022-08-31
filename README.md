@@ -23,6 +23,13 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Passay Password validation with Internationalization](https://www.aykutbuyukkaya.codes/spring-boot-passay-password-validation-with-internationalization/)
+- [Spring Boot Password Validation With Passay Policies](https://www.aykutbuyukkaya.codes/how-to-validate-passwords-with-constraints-in-java-spring/)
+- [Marmara University EE3042 -Energy Conversion Course Documents &lpar;Instructed by Assoc. Prof. Mustafa Onat, 2022 Spring&rpar;](https://www.aykutbuyukkaya.codes/marmara-university-ee3042-energy-conversion-lecture-documens-2022-spring/)
+- [Marmara University EE3082 – 
+Communication Engineering Course Documents &lpar;Instructed by Assoc. Prof. Dr. Engin Maşazade, 
+ 2022 Spring&rpar;](https://www.aykutbuyukkaya.codes/marmara-university-ee3082-communication-engineering-lecture-documens-2022-spring/)
+- [Github Student Developer Pack Nedir? Ne işe yarar? Nasıl alınır?](https://www.aykutbuyukkaya.codes/github-student-developer-pack-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
