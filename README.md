@@ -22,6 +22,9 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 
 ***
 
+<br>
+# My Latest Blog Posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot Passay Password validation with Internationalization](https://www.aykutbuyukkaya.codes/spring-boot-passay-password-validation-with-internationalization/)
 - [Spring Boot Password Validation With Passay Policies](https://www.aykutbuyukkaya.codes/how-to-validate-passwords-with-constraints-in-java-spring/)
