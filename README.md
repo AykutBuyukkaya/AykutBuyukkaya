@@ -36,16 +36,16 @@ Communication Engineering Course Documents &lpar;Instructed by Assoc. Prof. Dr. 
 - [Github Student Developer Pack Nedir? Ne işe yarar? Nasıl alınır?](https://www.aykutbuyukkaya.codes/github-student-developer-pack-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
-
 <br>
+
+## Connect with me:
 
 [![website](./img/twitter-dark.svg)](https://mobile.twitter.com/aykutbkaya1911) 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aykutbuyukkaya/) 
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/aykutb.kaya/) 
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij Idea" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
