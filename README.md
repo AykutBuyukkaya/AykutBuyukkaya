@@ -22,6 +22,8 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 
 ***
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
