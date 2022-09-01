@@ -18,9 +18,7 @@ Thanks for checking out my profile. I'm currently a third-grade university stude
 - 💬 Ask me about Spring boot and Hibernate. Also, I am kinda experienced in Vaadin and JavaFX frameworks.
 - 📫 How to reach me: ```aykutbkaya@gmail.com```   &nbsp; ```aykutbuyukkaya@protonmail.com```
 - 🏋️ I like to go hiking and work out/exercise in my spare time.             
-- 📖 I'm addicted to history. Especially antique Roman Kingdom-Republic-Empire History.                      
-
-***
+- 📖 I'm addicted to history. Especially antique Roman Kingdom-Republic-Empire History.  
 
 <br>
 
