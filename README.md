@@ -6,7 +6,7 @@
 
 <br>
 
-Thanks for checking out my profile. I'm currently a fourth-grade university student at Marmara University located in Istanbul. Even though I'm studying Electronics Engineering program, my real passion is all about software. I'm currently working as a software development intern at Koç Finans A.Ş. Also, I'm 20 years old.
+Thanks for checking out my profile. I'm currently a fourth-grade university student at Marmara University located in Istanbul. Even though I'm studying Electronics Engineering program, my real passion is all about software. I'm currently working as a software engineer for GARANTI BBVA TEKNOLOJI.
 
 <br>
 
