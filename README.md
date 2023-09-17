@@ -6,12 +6,12 @@
 
 <br>
 
-Thanks for checking out my profile. I'm currently a fourth-grade university student at Marmara University located in Istanbul. Even though I'm studying Electronics Engineering program, my real passion is all about software. I'm currently working as a software engineer for GARANTI BBVA TEKNOLOJI.
+Thanks for checking out my profile. I recently graduated from Marmara University located in Istanbul. Even though I have studied Electronics Engineering program, my real passion is all about software. I'm currently working as a software engineer for GARANTI BBVA TEKNOLOJI.
 
 <br>
 
 
-- 🔭 I’m currently working as a part-time backend engineer using Spring boot and Hibernate frameworks.
+- 🔭 I’m currently working as a software engineer using Spring Boot framework.
 - 🌱 I’m currently mastering my knowledge of Spring boot and taking part in big projects.
 - 👯 I’m looking to collaborate with other students willing to create open-source projects.
 - 🤔 I’m looking for help with Spring boot and Hibernate frameworks. There is lots of stuff to do.
