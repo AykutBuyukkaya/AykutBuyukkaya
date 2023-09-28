@@ -6,7 +6,7 @@
 
 <br>
 
-Thanks for checking out my profile. I recently graduated from Marmara University located in Istanbul. Even though I have studied Electronics Engineering program, my real passion is all about software. I'm currently working as a software engineer for GARANTI BBVA TEKNOLOJI.
+Thanks for checking out my profile. I recently graduated from Marmara University located in Istanbul. Even though I have studied Electronics Engineering program, my real passion is all about software. I'm currently working as a software engineer at GARANTI BBVA TEKNOLOJI.
 
 <br>
 
